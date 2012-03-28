@@ -1,0 +1,3 @@
+[submodule "frameworks/laravel"]
+	path = frameworks/laravel
+	url = git@github.com:buzzedword/heroku-laravel.git

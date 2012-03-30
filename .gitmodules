@@ -1,3 +1,6 @@
 [submodule "frameworks/laravel"]
 	path = frameworks/laravel
 	url = git://github.com/buzzedword/heroku-laravel.git
+[submodule "frameworks/wordpress"]
+	path = frameworks/wordpress
+	url = git://github.com/buzzedword/heroku-wordpress.git

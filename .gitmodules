@@ -4,3 +4,6 @@
 [submodule "frameworks/wordpress"]
 	path = frameworks/wordpress
 	url = git://github.com/buzzedword/heroku-wordpress.git
+[submodule "bare"]
+	path = bare
+	url = git://github.com/buzzedword/heroku-bare.git
